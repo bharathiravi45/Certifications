@@ -8,4 +8,4 @@
 ## Data Analytics Certificate
 - Issued by: NoviTech
 - Date: March 2025
-- [🔗 View Certificate](
+- [🔗 View Certificate](Data_Analytics_Certificate.pdf)
