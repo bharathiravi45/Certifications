@@ -9,3 +9,8 @@
 - Issued by: NoviTech
 - Date: March 2025
 - [🔗 View Certificate](Data_Analytics_Certificate.pdf)
+
+## OOPs Concept in Python
+- Issued by: Infosys Springboard
+- Date: October 2024
+- [🔗 View Certificate](
