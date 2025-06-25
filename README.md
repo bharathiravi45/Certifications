@@ -3,7 +3,7 @@
 ## Full Stack Development Certificate
 - Issued by: Novitech
 - Date: May 2025
-- [🔗 View Certificate](
+- [🔗 View Certificate](Full_Stack_Web_Development_Certificate.pdf)
 
 ## Data Analytics Certificate
 - Issued by: NoviTech
